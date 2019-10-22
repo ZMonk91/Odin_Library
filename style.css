@@ -1,0 +1,15 @@
+
+.jumbotron{
+    background-blend-mode: overlay !important;
+    background: #43434300 !important;
+    background: url(./library_bg.jpg) !important;
+}
+form-group>div{
+    padding: 0.1rem;
+}
+.bottom-section{
+    margin-top: 1rem;
+}
+label {
+    text-align: center;
+}
